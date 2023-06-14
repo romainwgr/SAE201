@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ardoise","l":"Ardoise"},{"p":"ardoise","l":"Forme"},{"p":"ardoise","l":"PointPlan"},{"p":"ardoise","l":"Segment"}];updateSearchResults();
